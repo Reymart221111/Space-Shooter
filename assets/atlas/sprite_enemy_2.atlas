@@ -1,0 +1,6 @@
+sprite_enemy_2.png
+size:256,256
+repeat:none
+sprite_enemy
+index:2
+bounds:2,2,125,125
